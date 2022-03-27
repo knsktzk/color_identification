@@ -1,0 +1,26 @@
+,1,2,3,4,5,6,7,8,9,10,11,12
+A,0.218,0.215,0.211,0.206,0.200,0.200,0.191,0.184,0.197,0.199,0.195,0.188
+B,0.218,0.211,0.188,0.195,0.231,0.185,0.213,0.178,0.187,0.213,0.182,0.183
+C,0.209,0.203,0.211,0.184,0.200,0.189,0.191,0.183,0.206,0.189,0.201,0.180
+D,0.207,0.197,0.199,0.191,0.208,0.196,0.196,0.180,0.213,0.242,0.230,0.177
+E,0.216,0.224,0.200,0.192,0.205,0.210,0.187,0.186,0.204,0.190,0.203,0.171
+F,0.213,0.187,0.215,0.245,0.210,0.211,0.205,0.176,0.207,0.206,0.187,0.188
+G,0.209,0.217,0.202,0.197,0.210,0.200,0.191,0.183,0.203,0.213,0.199,0.178
+H,0.207,0.221,0.233,0.189,0.209,0.222,0.210,0.190,0.200,0.211,0.211,0.195
+
+
+
+,1,2,3,4,5,6,7,8,9,10,11,12
+A,Sample 1,Sample 9,Sample 17,Sample 25,Sample 33,Sample 41,Sample 49,Sample 57,Sample 65,Sample 73,Sample 81,Sample 89
+B,Sample 2,Sample 10,Sample 18,Sample 26,Sample 34,Sample 42,Sample 50,Sample 58,Sample 66,Sample 74,Sample 82,Sample 90
+C,Sample 3,Sample 11,Sample 19,Sample 27,Sample 35,Sample 43,Sample 51,Sample 59,Sample 67,Sample 75,Sample 83,Sample 91
+D,Sample 4,Sample 12,Sample 20,Sample 28,Sample 36,Sample 44,Sample 52,Sample 60,Sample 68,Sample 76,Sample 84,Sample 92
+E,Sample 5,Sample 13,Sample 21,Sample 29,Sample 37,Sample 45,Sample 53,Sample 61,Sample 69,Sample 77,Sample 85,Sample 93
+F,Sample 6,Sample 14,Sample 22,Sample 30,Sample 38,Sample 46,Sample 54,Sample 62,Sample 70,Sample 78,Sample 86,Sample 94
+G,Sample 7,Sample 15,Sample 23,Sample 31,Sample 39,Sample 47,Sample 55,Sample 63,Sample 71,Sample 79,Sample 87,Sample 95
+H,Sample 8,Sample 16,Sample 24,Sample 32,Sample 40,Sample 48,Sample 56,Sample 64,Sample 72,Sample 80,Sample 88,Sample 96
+
+
+
+Sample (nm),450
+Reference (nm),-1
