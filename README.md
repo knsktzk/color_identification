@@ -1,4 +1,4 @@
-# knsktzk-color_identification
+# color_identification
 教師あり学習（分類）を用いて、OT-2 でウェルプレートに分注した色水の吸光度データから色水の色を判別するモデルを作成
 
 ## 使用したもの
